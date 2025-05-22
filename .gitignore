@@ -6,3 +6,16 @@
 .vscode/**
 !.vscode/extensions.json
 **.iml
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Unittest coverage
+coverage.txt
